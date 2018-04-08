@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab6c076-ac3f-43de-be54-0e27a0c49021" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/python_AllExamples/test.py" afterPath="$PROJECT_DIR$/python_AllExamples/test.py" />
-      <change beforePath="$PROJECT_DIR$/python_Openpyxl/createAWorkbook.py" afterPath="$PROJECT_DIR$/python_Openpyxl/createAWorkbook.py" />
-      <change beforePath="$PROJECT_DIR$/python_Openpyxl/files/test.csv" afterPath="$PROJECT_DIR$/python_Openpyxl/files/test.csv" />
-      <change beforePath="$PROJECT_DIR$/python_Openpyxl/test.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/python_Openpyxl/test.xlsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/python_Openpyxl/~$test.xlsx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/python_AllExamples/002_BasicSyntax/example002003.py" afterPath="$PROJECT_DIR$/python_AllExamples/002_BasicSyntax/example002003.py" />
     </list>
     <ignored path="python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,12 +42,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example002003.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="example002003.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_AllExamples/002_BasicSyntax/example002003.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="150">
+              <caret line="10" column="53" lean-forward="false" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example002004.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python_AllExamples/002_BasicSyntax/example002004.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,6 +107,7 @@
         <option value="$PROJECT_DIR$/python_AllExamples/test.py" />
         <option value="$PROJECT_DIR$/python_AllExamples/002_BasicSyntax/example002002.py" />
         <option value="$PROJECT_DIR$/python_AllExamples/002_BasicSyntax/example002003.py" />
+        <option value="$PROJECT_DIR$/python_AllExamples/002_BasicSyntax/example002004.py" />
       </list>
     </option>
   </component>
@@ -498,13 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_OpenCV/example001001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_AllExamples/009_Lists/example009001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -845,9 +845,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python_AllExamples/002_BasicSyntax/example002003.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="150">
+          <caret line="10" column="53" lean-forward="false" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_AllExamples/002_BasicSyntax/example002004.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
