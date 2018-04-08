@@ -1,15 +1,39 @@
-# Definition of radius
-r = 2
+class Animal:
+    __hungry = "yes"
+    __name = "no name"
+    __owner = "no owner"
 
-# Import the math package
-import math
+    def __init__(self):
+        pass
 
-# Calculate C
-C = 2*math.pi*r
+    def set_owner(self,newOwner):
+        self.__owner= newOwner
+        return
 
-# Calculate A
-A = math.pi*(r**2)
+    def get_owner(self):
+        return self.__owner
 
-# Build printout
-print("Circumference: " + str(C))
-print("Area: " + str(A))
+    def set_name(self,newName):
+        self.__name= newName
+        return
+
+    def get_name(self):
+        return self.__name
+
+    def noise(self):
+        print('errr')
+        return
+
+    def __hiddenmethod(self):
+        print("hard to find")
+
+
+def mainy():
+    dog = Animal()
+    dog.set_owner('Sue')
+    print(dog.get_owner())
+    dog.noise()
+
+
+if  __name__ =='__main__':
+    mainy()
